@@ -66,16 +66,6 @@ Whether you're setting up your first Wazuh instance or building out a full detec
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
-   ```
-2. Browse the folder relevant to your need (`wazuh-core`, `integrations`, `opensource-tools`)
-3. Each doc is self-contained — copy configs, adapt to your environment, and test in a lab before production use
-
----
-
 ## 🤝 Contributing
 
 Contributions, corrections, and new integration guides are welcome!
